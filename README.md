@@ -1,3 +1,9 @@
+# WARNING
+
+This is a patched version that only supports direct xml, and not files, it can't parse a file. So it's incomplete, but great for my use-case. 
+
+Eventually I mean to re-implement the feature using window.FileReader instead of the fs module, which is not available in the browser. 
+
 # Overview
 
 This module provides a lightweight, fast, easy-to-use XML parser which generates a simplified object / array tree.  This can be very useful for parsing XML configuration files and the like.  It is 100% pure JavaScript and has no dependencies.

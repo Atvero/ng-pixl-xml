@@ -1,8 +1,8 @@
 {
   "name": "pixl-xml",
   "version": "1.0.13",
-  "description": "A simple module for parsing and composing XML.",
-  "author": "Joseph Huckaby <jhuckaby@gmail.com>",
+  "description": "A monkey-patched module for parsing and composing XML.",
+  "author": "Louis Boyle <l.boyle@nittygritty.net>",
   "homepage": "https://github.com/nittygritty-uk/pixl-xml",
   "license": "MIT",
   "main": "xml.js",
