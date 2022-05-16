@@ -2,7 +2,7 @@
   "name": "pixl-xml",
   "version": "1.0.13",
   "description": "A monkey-patched module for parsing and composing XML.",
-  "author": "Louis Boyle <l.boyle@nittygritty.net>",
+  "author": "Louis Boyle <louis@atvero.com>",
   "homepage": "https://github.com/Atvero/ng-pixl-xml",
   "license": "MIT",
   "main": "xml.js",
