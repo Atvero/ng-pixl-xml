@@ -3,15 +3,15 @@
   "version": "1.0.13",
   "description": "A monkey-patched module for parsing and composing XML.",
   "author": "Louis Boyle <l.boyle@nittygritty.net>",
-  "homepage": "https://github.com/nittygritty-uk/pixl-xml",
+  "homepage": "https://github.com/Atvero/ng-pixl-xml",
   "license": "MIT",
   "main": "xml.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nittygritty-uk/pixl-xml"
+    "url": "https://github.com/Atvero/ng-pixl-xml"
   },
   "bugs": {
-    "url": "https://github.com/nittygritty-uk/pixl-xml/issues"
+    "url": "https://github.com/Atvero/ng-pixl-xml/issues"
   },
   "keywords": [
     "xml"
